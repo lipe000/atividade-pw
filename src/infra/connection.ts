@@ -4,5 +4,5 @@ export const connection = new Pool({
     host: 'localhost',
     user: 'postgres',
     password: '1234',
-    database: 'catalago-bd'
+    database: 'tarefas-bd'
 });
